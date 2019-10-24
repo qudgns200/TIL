@@ -1,0 +1,7 @@
+public class SubString {
+	
+	public String[] split(String s) {
+		String[] arr = s.split("");
+		return arr;
+	}
+}

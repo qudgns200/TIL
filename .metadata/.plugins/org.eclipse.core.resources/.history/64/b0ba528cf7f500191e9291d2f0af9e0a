@@ -1,0 +1,7 @@
+
+public class Calculator {
+
+	public double add(int x, int y) {
+		double result;
+	}
+}

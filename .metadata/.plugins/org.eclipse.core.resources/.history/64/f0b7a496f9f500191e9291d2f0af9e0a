@@ -1,0 +1,16 @@
+
+public class Calculator {
+
+	public String add(int x, int y) {
+		return Integer.toString(x+y);
+	}
+	public String minus(int x, int y) {
+		return Integer.toString(x-y);
+	}
+	public String mul(int x, int y) {
+		return Integer.toString(x*y);
+	}
+	public String div(int x, int y) {
+		return x/y;
+	}
+}

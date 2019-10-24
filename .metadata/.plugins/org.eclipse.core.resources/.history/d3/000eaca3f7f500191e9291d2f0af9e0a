@@ -1,0 +1,21 @@
+
+public class Calculator {
+
+	public double add(double x, double y) {
+		double result=0;
+		result = 
+		return result;
+	}
+	public double minus(double x, double y) {
+		double result=0;
+		return result;
+	}
+	public double mul(double x, double y) {
+		double result=0;
+		return result;
+	}
+	public double div(double x, double y) {
+		double result=0;
+		return result;
+	}
+}

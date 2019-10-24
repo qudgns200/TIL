@@ -1,0 +1,6 @@
+D:\01_WorkSpace\TIL\TCP_IP_20191024\client_cs\TCP_IP\TCP_IP\bin\Debug\TCP_IP.exe.config
+D:\01_WorkSpace\TIL\TCP_IP_20191024\client_cs\TCP_IP\TCP_IP\bin\Debug\TCP_IP.exe
+D:\01_WorkSpace\TIL\TCP_IP_20191024\client_cs\TCP_IP\TCP_IP\bin\Debug\TCP_IP.pdb
+D:\01_WorkSpace\TIL\TCP_IP_20191024\client_cs\TCP_IP\TCP_IP\obj\Debug\TCP_IP.csprojResolveAssemblyReference.cache
+D:\01_WorkSpace\TIL\TCP_IP_20191024\client_cs\TCP_IP\TCP_IP\obj\Debug\TCP_IP.exe
+D:\01_WorkSpace\TIL\TCP_IP_20191024\client_cs\TCP_IP\TCP_IP\obj\Debug\TCP_IP.pdb

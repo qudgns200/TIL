@@ -1,0 +1,19 @@
+
+public class Calculator {
+
+	public int add(int x, int y) {
+		return x+y;
+	}
+	public int minus(int x, int y) {
+		int result=0;
+		return result;
+	}
+	public int mul(int x, int y) {
+		int result=0;
+		return result;
+	}
+	public int div(int x, int y) {
+		int result=0;
+		return result;
+	}
+}

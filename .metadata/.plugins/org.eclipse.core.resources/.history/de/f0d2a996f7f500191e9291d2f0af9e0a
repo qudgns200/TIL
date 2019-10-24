@@ -1,0 +1,20 @@
+
+public class Calculator {
+
+	public double add(int x, int y) {
+		double result=0;
+		return result;
+	}
+	public double minus(int x, int y) {
+		double result=0;
+		return result;
+	}
+	public double add(int x, int y) {
+		double result=0;
+		return result;
+	}
+	public double add(int x, int y) {
+		double result=0;
+		return result;
+	}
+}
