@@ -2482,3 +2482,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar
 2019-11-21 21:52:42,202 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02_Dev\TIL\20191029_spring_mvc\src\main\resources
 2019-11-21 21:52:42,204 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-11-21 21:52:42,204 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02_Dev\TIL\20191029_spring_mvc\src\test\resources
+2019-11-23 10:57:04,658 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-23 10:57:09,215 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-23 10:57:09,217 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02_Dev\TIL\20191029_spring_mvc\src\main\resources
+2019-11-23 10:57:09,219 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-23 10:57:09,219 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02_Dev\TIL\20191029_spring_mvc\src\test\resources
